@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanan-kazimov
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Python
 - 💞️ I’m not looking to collaborate on something for now
 - 📫 How to reach me senan.kazimov@gmail.com
 
